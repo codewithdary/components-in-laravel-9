@@ -1,5 +1,5 @@
-# Laravel Blog Template [STATIC]
-This is the official repository for my upcoming YouTube tutorials. <br>
+# Laravel Blog Build out of Components
+This is the official repository for my [Components in Laravel 9]() tutorial on YouTube. <br>
 •	Author: Code With Dary <br>
 •	Twitter: [@codewithdary](https://twitter.com/codewithdary) <br>
 •	Instagram: [@codewithdary](https://www.instagram.com/codewithdary/) <br>
